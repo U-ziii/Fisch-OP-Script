@@ -2,7 +2,7 @@
 
 Max out your haul with **Fisch OP Script**, the lightweight, **keyless** tool designed for fast, automated fishing in Roblox fishing games. With features like **Auto Fish**, **Auto Shake**, and **Faster Shake**, this script eliminates the grind so you can reel in rewards non-stop.
 
-![script-image](image-link-placeholder)
+![script-image](https://github.com/U-ziii/Fisch-OP-Script/blob/main/Fisch%20OP%20Script%20-%20Fishing%20Automation%20Master.png)
 
 ---
 
